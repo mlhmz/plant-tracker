@@ -14,7 +14,7 @@ junit = "4.13.2"
 kotlin = "2.3.0"
 ktor = "3.3.3"
 logback = "1.5.22"
-exposed = "1.0.0-rc4"
+exposed = "1.0.0-rc-4"
 
 [libraries]
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
